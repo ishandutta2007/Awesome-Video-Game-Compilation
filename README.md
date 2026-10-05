@@ -55,7 +55,7 @@ Below is a structured overview of top commercial game compilation releases, sort
 > 🔓 **Open-Source Ecosystem**:  
 > The open-source community provides powerful tools for library management, frontend interfaces, N64/PC recompilations, and game decompilations.
 
-The projects below are sorted in **descending order by GitHub Star Count**. Beside each project name is a live star badge linking directly to the repository's stargazers page:
+The projects below are sorted in **descending order by GitHub Stars_Count**. Beside each project name is a live Stars_Badge linking directly to the repository's stargazers page:
 
 1. 🕹️ **[OpenEmu](https://github.com/OpenEmu/OpenEmu)** [![Stars](https://img.shields.io/github/stars/OpenEmu/OpenEmu?style=social&color=white)](https://github.com/OpenEmu/OpenEmu/stargazers)  
    *All-in-one retro video game emulation environment designed specifically for macOS with a clean iTunes-style UI.*
@@ -117,7 +117,7 @@ The projects below are sorted in **descending order by GitHub Star Count**. Besi
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or edit** entries in `README.md` keeping formatting consistent.
-3. 📌 **Include**: Project Name, Official/GitHub URL, star badge, concise description, and tags.
+3. 📌 **Include**: Project Name, Official/GitHub URL, Stars_Badge, concise description, and tags.
 4. 🚀 **Submit a Pull Request** with a brief summary of additions.
 
 ---
